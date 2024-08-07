@@ -1,4 +1,9 @@
+<div style="text-align: center;">
+  <img src="./Public/logo.png" alt="Logo do Projeto" width="200"/>
+</div>
+
 # Connection Future
+
 
 ## Sobre Nós
 
@@ -8,12 +13,12 @@ A **Connection Future** é uma startup focada no treinamento e desenvolvimento d
 
 Afinal, o que você vai aprender com nossa metodologia?
 
-- **Oratória**: Aprenda a se expressar de forma clara e persuasiva.
-- **Inteligência Emocional**: Desenvolva a capacidade de reconhecer, entender e gerenciar suas emoções e as dos outros.
-- **Comunicação**: Melhore suas habilidades de comunicação verbal e não verbal.
-- **Gestão do Tempo**: Aprenda técnicas para administrar melhor seu tempo e aumentar a produtividade.
-- **Trabalho em Equipe**: Desenvolva habilidades para colaborar efetivamente com outros.
-- **E muito mais**: Nossos treinamentos cobrem uma ampla gama de habilidades para o desenvolvimento pessoal e profissional.
+- **Oratória**
+- **Inteligência Emocional**
+- **Comunicação**
+- **Gestão do Tempo**
+- **Trabalho em Equipe**
+- **E muito mais**
 
 ## Treinamentos Disponíveis
 
