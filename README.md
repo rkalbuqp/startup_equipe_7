@@ -1,4 +1,3 @@
-```markdown
 # Connection Future
 
 ## Sobre Nós
@@ -31,4 +30,3 @@ Este treinamento destaca a importância do reconhecimento no ambiente de trabalh
 Para saber mais sobre nossos treinamentos e como podemos ajudar você ou sua empresa a desenvolver habilidades essenciais para o sucesso, entre em contato conosco!
 
 **Connection Future** - Transformando o potencial humano em resultados tangíveis.
-```
