@@ -1,1 +1,0 @@
-# startup_equipe_7
